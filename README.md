@@ -1,0 +1,2 @@
+# shoppy
+next js project
